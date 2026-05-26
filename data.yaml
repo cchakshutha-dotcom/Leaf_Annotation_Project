@@ -1,0 +1,5 @@
+train: D:/Leaf_Annotation_Project/images/train
+val: D:/Leaf_Annotation_Project/images/val
+
+nc: 4
+names: ['rust', 'powdery', 'virus', 'healthy']
